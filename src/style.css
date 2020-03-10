@@ -1,0 +1,9 @@
+p {
+  background: url('./imgs/wb.png');
+}
+
+#app {
+  width: 40px;
+  height: 40px;
+  background: rebeccapurple;
+}
